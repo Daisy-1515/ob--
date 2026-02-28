@@ -1,1 +1,9 @@
-{}
+{
+  "showRibbon": true,
+  "baseFontSizeAction": true,
+  "nativeMenus": true,
+  "baseFontSize": 15,
+  "enabledCssSnippets": [
+    "mermaid"
+  ]
+}
