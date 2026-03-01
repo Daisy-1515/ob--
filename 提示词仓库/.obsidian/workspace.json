@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "寻找文献的专属提示词20260228.md",
+                "file": "academic-researcher.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "寻找文献的专属提示词20260228"
+              "title": "academic-researcher"
             }
           }
         ]
@@ -198,14 +198,16 @@
       "markdown-importer:打开 Markdown 格式转换器": false,
       "zk-prefixer:创建时间戳笔记": false,
       "graph:查看关系图谱": false,
-      "obsidian-importer:Open Importer": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-importer:Open Importer": false
     }
   },
   "active": "064efdb5b989541a",
   "lastOpenFiles": [
-    "学术论文对标润色提示词20260228.md",
+    "专门用于复制粘贴到Word文档 的HTML排版代码.md",
+    "academic-researcher.md",
+    "如何快速学习一个陌生行业20260301.md",
     "寻找文献的专属提示词20260228.md",
+    "学术论文对标润色提示词20260228.md",
     "未命名.base",
     "随笔/20260116.md",
     "随笔/未命名.md",
@@ -238,11 +240,8 @@
     "环境部署与软件安装/榨干 Claude Code 的 16 个实用小技巧（高端玩法，建议收藏！） - Java技术栈 - 博客园.pdf",
     "论文/新方向/agentic AI/LLM-OptiRA LLM-Driven Optimization of Resource Allocation for Non-Convex Problems in Wireless Communications.md",
     "论文/新方向/agentic AI/Agentic AI Home Energy Management System ：A Large Language  Model Framework for Residential Load Scheduling.md",
-    "论文/新方向/agentic AI/提示词撰写思路.md",
-    "论文/新方向/PropEM-L Radio Propagation Environment  Modeling and Learning for Communication-Aware  Multi-Robot Exploration.md",
     "未命名 2.base",
     "未命名 1.base",
-    "环境部署与软件安装/提示词总结.md",
     "assert/Pasted image 20260109110910.png",
     "assert/Pasted image 20260109110820.png",
     "assert/Pasted image 20260109102033.png",
