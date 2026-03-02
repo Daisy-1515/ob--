@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "academic-researcher.md",
+                "file": "专属高标准学术文献检索提示词.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "academic-researcher"
+              "title": "专属高标准学术文献检索提示词"
             }
           }
         ]
@@ -88,7 +88,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 386.5
   },
   "right": {
     "id": "b88c7c30b19d60ef",
@@ -203,8 +203,9 @@
   },
   "active": "064efdb5b989541a",
   "lastOpenFiles": [
-    "专门用于复制粘贴到Word文档 的HTML排版代码.md",
     "academic-researcher.md",
+    "专属高标准学术文献检索提示词.md",
+    "专门用于复制粘贴到Word文档 的HTML排版代码.md",
     "如何快速学习一个陌生行业20260301.md",
     "寻找文献的专属提示词20260228.md",
     "学术论文对标润色提示词20260228.md",
@@ -239,7 +240,6 @@
     "环境部署与软件安装/基于 VScode 的 git 详细使用指南【保姆级！建议收藏！】_vscode使用git-CSDN博客.pdf",
     "环境部署与软件安装/榨干 Claude Code 的 16 个实用小技巧（高端玩法，建议收藏！） - Java技术栈 - 博客园.pdf",
     "论文/新方向/agentic AI/LLM-OptiRA LLM-Driven Optimization of Resource Allocation for Non-Convex Problems in Wireless Communications.md",
-    "论文/新方向/agentic AI/Agentic AI Home Energy Management System ：A Large Language  Model Framework for Residential Load Scheduling.md",
     "未命名 2.base",
     "未命名 1.base",
     "assert/Pasted image 20260109110910.png",
